@@ -1,1 +1,1 @@
-this readme file is for the directory 
+this readme file is for this directory 
